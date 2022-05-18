@@ -1,5 +1,6 @@
-## `Preview` :  
-you can [see](https://hamburger-menu-animation1805.netlify.app/)
+## Preview :  
+https://hamburger-menu-animation1805.netlify.app/
+
 # Hamburger Menu
 A basic Hamburger Menu Animation using HTML, CSS and Javascript
 

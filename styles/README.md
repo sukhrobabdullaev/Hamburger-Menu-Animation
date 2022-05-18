@@ -1,8 +1,7 @@
-## Preview 
-
+## `Preview` :  
+you can [see](https://hamburger-menu-animation1805.netlify.app/)
 # Hamburger Menu
 A basic Hamburger Menu Animation using HTML, CSS and Javascript
-![title-pic1](https://user-images.githubusercontent.com/39196039/39932952-30eb36c8-555f-11e8-8247-9258ac730722.jpg)
 
 This repository contains code for creating a basic hamburger Menu Animation with few quick & easy steps. 
 
